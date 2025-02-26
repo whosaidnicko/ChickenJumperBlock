@@ -4,13 +4,13 @@ workflows:
     max_build_duration: 120
     instance_type: mac_mini_m2
     integrations:
-      app_store_connect: plekacces
+      app_store_connect: kuriatnikacces
     environment:
       ios_signing:
         provisioning_profiles:
-         - profile: amyprofbato
+         - profile: kurtiazpbprfo
         certificates:
-         - certificate: plamybattlecrt
+         - certificate: kuritaniecertf
       vars:
         BUNDLE_ID: "michi6f.oswqzbut4lew4rzq"
         XCODE_PROJECT: "ChickenJumperBlock.xcodeproj"
